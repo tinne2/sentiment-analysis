@@ -120,6 +120,5 @@ Future updates may include the scraping script and preprocessing pipeline.
 
 ## 📖 Citation
 
-If you use this dataset in your research, please cite:
 
 
